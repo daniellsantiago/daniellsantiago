@@ -1,7 +1,6 @@
 <h1 align="left">Daniel Santiago</h1>
 <div>
 
-<a href = "mailto:danielsantiago111@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniellsantiago" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
@@ -9,11 +8,9 @@
 
 
 # Hello World!
-##### Backend Software Engineer with over three years of hands-on expertise in designing, developing, and maintaining robust and scalable software applications that daily impacts thousands of people's lives.
+#### Backend Software Engineer with over three years of hands-on expertise in designing, developing, and maintaining robust and scalable software applications that daily impacts thousands of people's lives. 
 
-##### Skilled in Golang, Java, Kotlin and NodeJS. Proficient in several topics related to software development, such as relational and non-relational databases, observability tools and practices, message brokers, DDD, TDD and so on.
-
-</br>
+#### Skilled in Golang, Java, Kotlin and NodeJS. Proficient in several topics related to software development, such as microservices, relational and non-relational databases, AWS services, observability tools and practices, message brokers, DDD, TDD, design patterns, software architecture and so on.
 
 
 ### Technologies
