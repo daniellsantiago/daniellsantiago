@@ -13,7 +13,6 @@
 #### Skilled in Golang, Java, Kotlin and NodeJS. Proficient in several topics related to software development, such as microservices, relational and non-relational databases, AWS services, observability tools and practices, message brokers, DDD, TDD, design patterns, software architecture and so on.
 
 
-### Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
