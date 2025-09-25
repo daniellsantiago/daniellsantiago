@@ -8,7 +8,7 @@
 
 
 # Hello World!
-#### Backend Software Engineer with over three years of hands-on expertise in designing, developing, and maintaining robust and scalable software applications that daily impacts thousands of people's lives. 
+#### Backend Software Engineer with over four years of hands-on expertise in designing, developing, and maintaining robust and scalable software applications that daily impacts thousands of people's lives. 
 
 #### Skilled in Golang, Java, Kotlin and NodeJS. Proficient in several topics related to software development, such as microservices, relational and non-relational databases, AWS services, observability tools and practices, message brokers, DDD, TDD, design patterns, software architecture and so on.
 
